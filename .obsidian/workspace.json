@@ -11,24 +11,15 @@
             "id": "2bf5788a1307fda8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1d808103bb10724",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "泰迪杯笔记2024/3_30论文阅读.md",
+                "file": "5月阅读内容/fedavg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "泰迪杯笔记2024/3_30论文阅读.md",
+                "file": "5月阅读内容/fedavg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "泰迪杯笔记2024/3_30论文阅读.md",
+                "file": "5月阅读内容/fedavg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "泰迪杯笔记2024/3_30论文阅读.md"
+                "file": "5月阅读内容/fedavg.md"
               }
             }
           }
@@ -155,10 +146,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1d808103bb10724",
+  "active": "2bf5788a1307fda8",
   "lastOpenFiles": [
-    "3_38会议记录.md",
+    "5月阅读内容/图片/Pasted image 20240508222200.png",
+    "5月阅读内容/SISA.md",
+    "5月阅读内容/fedavg.md",
+    "5月阅读内容/图片/Pasted image 20240508221337.png",
+    "5月阅读内容/图片/Pasted image 20240508220627.png",
+    "5月阅读内容/图片/Pasted image 20240508220241.png",
+    "Pasted image 20240508220148.png",
+    "Pasted image 20240508220034.png",
+    "MMSSL.md",
+    "IMHPRE文章精读.md",
+    "5月阅读内容/图片",
+    "未命名.md",
+    "5月阅读内容",
+    "泰迪杯笔记2024/未命名.md",
     "泰迪杯笔记2024/3_30论文阅读.md",
+    "3_38会议记录.md",
     "泰迪杯笔记2024",
     "314学习内容.md",
     "未命名.canvas"
