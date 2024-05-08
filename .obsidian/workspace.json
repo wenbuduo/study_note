@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "4723c148db486195",
+        "id": "04126713e6dc9b96",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf5788a1307fda8",
+            "id": "09499fb9d6f711c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e651117f6ae66092",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "10月学习/图片/Pasted image 20241001150222.png"
+              }
+            }
+          },
+          {
+            "id": "a4cfc5f77394164d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5月阅读内容/fedavg.md",
+                "file": "10月学习/特征缩放.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5月阅读内容/fedavg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5月阅读内容/fedavg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5月阅读内容/fedavg.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,26 +160,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2bf5788a1307fda8",
+  "active": "09499fb9d6f711c8",
   "lastOpenFiles": [
-    "5月阅读内容/图片/Pasted image 20240508222200.png",
-    "5月阅读内容/SISA.md",
-    "5月阅读内容/fedavg.md",
-    "5月阅读内容/图片/Pasted image 20240508221337.png",
-    "5月阅读内容/图片/Pasted image 20240508220627.png",
-    "5月阅读内容/图片/Pasted image 20240508220241.png",
-    "Pasted image 20240508220148.png",
-    "Pasted image 20240508220034.png",
-    "MMSSL.md",
-    "IMHPRE文章精读.md",
-    "5月阅读内容/图片",
-    "未命名.md",
-    "5月阅读内容",
+    "阅读笔记/314学习内容.md",
+    "10月学习/特征缩放.md",
+    "Pasted image 20241001150513.png",
+    "10月学习/图片/Pasted image 20241001145821.png",
+    "10月学习/图片/Pasted image 20241001150154.png",
+    "10月学习/图片/Pasted image 20241001150222.png",
+    "10月学习/图片",
+    "10月学习",
+    "设备端基于会话推荐粗读.md",
+    "基于知识图谱的隐私保护多源跨域推荐.md",
+    "阅读笔记/MMSSL.md",
+    "脚本.md",
+    "大学生心理.md",
+    "未命名.canvas",
+    "并行程序设计/绪论.md",
+    "阅读笔记/雅思小作文.md",
+    "阅读笔记/图片/Pasted image 20240517110021.png",
+    "阅读笔记/图片/Pasted image 20240517105909.png",
+    "阅读笔记/图片/Pasted image 20240517105815.png",
+    "阅读笔记/图片/Pasted image 20240517105513.png",
+    "阅读笔记/图片/Pasted image 20240517105329.png",
+    "阅读笔记/图片/Pasted image 20240517104916.png",
+    "并行程序设计",
+    "阅读笔记/SISA.md",
+    "阅读笔记/新学名词.md",
+    "阅读笔记/fedavg.md",
+    "阅读笔记/IMHPRE文章精读.md",
+    "阅读笔记/图片",
+    "阅读笔记",
     "泰迪杯笔记2024/未命名.md",
     "泰迪杯笔记2024/3_30论文阅读.md",
     "3_38会议记录.md",
-    "泰迪杯笔记2024",
-    "314学习内容.md",
-    "未命名.canvas"
+    "泰迪杯笔记2024"
   ]
 }
