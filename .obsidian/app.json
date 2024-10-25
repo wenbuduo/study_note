@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "5月阅读内容/图片",
+  "attachmentFolderPath": "./图片",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
