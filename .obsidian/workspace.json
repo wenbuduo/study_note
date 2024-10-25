@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10月学习/集成学习和随机森林方法.md",
+                "file": "阅读的思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10月学习/集成学习和随机森林方法.md",
+                "file": "阅读的思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10月学习/集成学习和随机森林方法.md",
+                "file": "阅读的思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10月学习/集成学习和随机森林方法.md"
+                "file": "阅读的思路.md"
               }
             }
           }
@@ -161,16 +161,16 @@
   },
   "active": "287bcfcb4cba921b",
   "lastOpenFiles": [
+    "10月学习/Pandas.md",
+    "10月学习/集成学习和随机森林方法.md",
     "10月学习/图片/Pasted image 20241025112445.png",
     "10月学习/方差，偏差和不可消除误差.md",
-    "10月学习/集成学习和随机森林方法.md",
     "10月学习/图片/Pasted image 20241024112004.png",
     "10月学习/图片/Pasted image 20241024110008.png",
     "10月学习/图片/Pasted image 20241024105530.png",
     "10月学习/图片/Pasted image 20241024105509.png",
     "10月学习/GDI_ 一种基于图神经网络张量补全的新型物联网设备识别框架(2024).md",
     "10月学习/GS-WGAN_一种学习差分私有生成器的梯度净化方法(2021).md",
-    "Pandas.md",
     "图片/Pasted image 20241021172204.png",
     "图片",
     "10月学习/PP-FCIL：隐私保护的联邦增量学习（2023）.md",
@@ -182,7 +182,6 @@
     "10月学习/图片/Pasted image 20241021110136.png",
     "阅读笔记/未命名.md",
     "10月学习/图片/Pasted image 20241019160306.png",
-    "10月学习/图片/Pasted image 20241019160317.png",
     "阅读笔记/设备端基于会话推荐粗读.md",
     "阅读笔记/基于知识图谱的隐私保护多源跨域推荐.md",
     "阅读笔记/TAN论文精度.md",
