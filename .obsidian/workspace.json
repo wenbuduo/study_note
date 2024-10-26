@@ -4,35 +4,177 @@
     "type": "split",
     "children": [
       {
-        "id": "b84f219650804b62",
+        "id": "986ecfa1ff39923f",
         "type": "tabs",
         "children": [
           {
-            "id": "b017c7f17d65d9fc",
+            "id": "58281a9e4e1ea678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10月学习/方差，偏差和不可消除误差.md",
+                "file": "青训营(AI)/逻辑链提示工程（Chain of Thought,CoT）.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "287bcfcb4cba921b",
+            "id": "a41fa275cc7c3d80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读的思路.md",
+                "file": "毕设/调研.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015b08afe4dbbe4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/PepNet-Accurate de novo peptide sequencing using fully convolutional neural networks（泛读）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ff42c9187af655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/PointNovo-Computationally instrument-resolutionindependent de novo peptide sequencing for high-resolution devices（泛读）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb32e4dcf6770814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/ContraNovo-A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing（泛读）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32dcf6f85a824b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/Casanovo-De Novo Mass Spectrometry Peptide Sequencing with a Transformer Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e79d8d27605fe66",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "青训营(AI)/图片/Pasted image 20241124233745.png"
+              }
+            }
+          },
+          {
+            "id": "9c3c868d6830e69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/Casanovo-De Novo Mass Spectrometry Peptide Sequencing with a Transformer Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6fdc92fb58c6d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/Casanovo-De Novo Mass Spectrometry Peptide Sequencing with a Transformer Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9be3d328b3a41645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/Casanovo-De Novo Mass Spectrometry Peptide Sequencing with a Transformer Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dbade6656bab6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/DeepNovoV2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dd46be34bd0d8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yolo5学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f2be1170b15d2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/NovoB-Bidirectional de novo peptide sequencing using atransformer model（泛读）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1bae1cebba1743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕设/PointNovo-Computationally instrument-resolutionindependent de novo peptide sequencing for high-resolution devices（泛读）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -98,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读的思路.md",
+                "file": "yolo5学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读的思路.md",
+                "file": "yolo5学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读的思路.md"
+                "file": "yolo5学习笔记.md"
               }
             }
           }
@@ -159,50 +301,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "287bcfcb4cba921b",
+  "active": "3dd46be34bd0d8b2",
   "lastOpenFiles": [
-    "10月学习/Pandas.md",
-    "10月学习/集成学习和随机森林方法.md",
-    "10月学习/图片/Pasted image 20241025112445.png",
-    "10月学习/方差，偏差和不可消除误差.md",
-    "10月学习/图片/Pasted image 20241024112004.png",
-    "10月学习/图片/Pasted image 20241024110008.png",
-    "10月学习/图片/Pasted image 20241024105530.png",
-    "10月学习/图片/Pasted image 20241024105509.png",
-    "10月学习/GDI_ 一种基于图神经网络张量补全的新型物联网设备识别框架(2024).md",
-    "10月学习/GS-WGAN_一种学习差分私有生成器的梯度净化方法(2021).md",
-    "图片/Pasted image 20241021172204.png",
+    "图片/Pasted image 20241129104601.png",
+    "图片/Pasted image 20241129104531.png",
+    "毕设/图片/Pasted image 20241126173444.png",
+    "毕设/图片/Pasted image 20241126173505.png",
+    "yolo5学习笔记.md",
     "图片",
-    "10月学习/PP-FCIL：隐私保护的联邦增量学习（2023）.md",
-    "10月学习/基于知识图谱的隐私保护多源跨域推荐.md",
+    "毕设/SeqNovo-De Novo Peptide Sequencing Prediction in IoMT via Seq2Seq.md",
     "阅读的思路.md",
-    "10月学习/特征缩放.md",
-    "10月学习/图片/Pasted image 20241021113044.png",
-    "10月学习/图片/Pasted image 20241021110554.png",
-    "10月学习/图片/Pasted image 20241021110136.png",
+    "毕设/PepNet-Accurate de novo peptide sequencing using fully convolutional neural networks（泛读）.md",
+    "毕设/DeepNovoV2.md",
+    "毕设/DeepNovo-DIA-Deep Active Learning for De Novo Peptide Sequencing from Data-independent-acquisition Mass Spectrometry（泛读）.md",
+    "毕设/图片/Pasted image 20241126170454.png",
+    "毕设/串联质谱法对肽进行从头测序方法综述.md",
+    "毕设/Casanovo-De Novo Mass Spectrometry Peptide Sequencing with a Transformer Model.md",
+    "毕设/调研.md",
+    "毕设/DeepNovo-De novo peptide sequencing by deep learning(泛读).md",
+    "毕设/图片/Pasted image 20241126162226.png",
+    "毕设/图片/Pasted image 20241126161131.png",
+    "青训营(AI)/代理的作用.md",
+    "青训营(AI)/图片/Pasted image 20241124233745.png",
+    "青训营(AI)/AI记忆机制.md",
+    "青训营(AI)/未命名.md",
+    "毕设/ContraNovo-A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing（泛读）.md",
+    "毕设/PointNovo-Computationally instrument-resolutionindependent de novo peptide sequencing for high-resolution devices（泛读）.md",
+    "毕设/NovoB-Bidirectional de novo peptide sequencing using atransformer model（泛读）.md",
+    "青训营(AI)/图片/Pasted image 20241122161445.png",
+    "青训营(AI)/调用openai API.md",
+    "青训营(AI)/python中日期的转换.md",
+    "青训营(AI)/逻辑链提示工程（Chain of Thought,CoT）.md",
+    "毕设/图片/Pasted image 20241118203920.png",
+    "毕设/图片",
+    "毕设",
+    "10月学习/时间序列处理和应用.md",
     "阅读笔记/未命名.md",
-    "10月学习/图片/Pasted image 20241019160306.png",
-    "阅读笔记/设备端基于会话推荐粗读.md",
-    "阅读笔记/基于知识图谱的隐私保护多源跨域推荐.md",
-    "阅读笔记/TAN论文精度.md",
-    "阅读笔记/SISA.md",
-    "阅读笔记/MMSSL.md",
-    "阅读笔记/IMHPRE文章精读.md",
-    "阅读笔记/HyperGCN精读.md",
-    "阅读笔记/fedavg.md",
-    "阅读笔记/DGC深度梯度压缩.md",
-    "阅读笔记/雅思小作文.md",
-    "阅读笔记/对比学习.md",
+    "青训营（后端）/算法，安全，性能优化.md",
+    "10月学习/YOLO.md",
+    "青训营（后端）",
+    "青训营(AI)",
+    "青训营(AI)/图片",
+    "10月学习/主成分分析和聚类.md",
+    "10月学习/特征转化.md",
+    "10月学习/图片 1",
     "10月学习/图片",
     "10月学习",
-    "脚本.md",
-    "大学生心理.md",
     "未命名.canvas",
-    "并行程序设计/绪论.md",
-    "并行程序设计",
-    "阅读笔记/新学名词.md",
-    "阅读笔记/图片",
-    "阅读笔记",
-    "泰迪杯笔记2024"
+    "并行程序设计"
   ]
 }
